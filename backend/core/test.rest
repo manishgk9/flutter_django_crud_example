@@ -1,0 +1,6 @@
+GET http://localhost:8000/get/11
+Content-Type: application/json
+###
+DELETE http://localhost:8000/delete/11
+Content-Type: application/json
+
